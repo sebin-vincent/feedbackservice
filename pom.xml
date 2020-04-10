@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>feedbackservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>feedbackservice</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -53,6 +54,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>FeedbackService</finalName>
 	</build>
 
 </project>
