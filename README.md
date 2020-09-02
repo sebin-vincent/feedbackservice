@@ -1,6 +1,6 @@
 # FeedBack Service
 
-Medium blog
+Medium blog.
 
 A springboot application to demonstarte Dockerization of springboot application with persistant Mysql database.
 
